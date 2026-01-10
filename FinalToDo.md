@@ -69,3 +69,41 @@ Learn ai and code(add it to repo's)
 
 --------------------
 
+
+Preparation strategy:
+
+every min should be put to good use
+dont stay at home whenever possible
+every day's plan should be dynamic and planned before hand. (vs code maintain of todo's)
+
+its btw [ dsa | system design | ai | devops/sre | resume content | applications]
+
+
+
+
+free time - when cant do anything learn language/workout/news
+
+----------------------------
+
+Sre things -
+
+. sdlc
+. web apps - design from gaurav, chatgpt, abhishek
+. linux
+. docker
+. k8s
+. observability - metrics, log(elk), trace(jaeger)
+. incident mgmt 
+. rca/debug/troubleshooting
+
+resume content and job applications
+
+
+just complete above things in another 3 weeks - (Jan 10 -> 30 Jan 2026)
+take one week at a time - 6*5+10*2 --> 50 hours serious work in a week
+
+-------------------------------
+
+
+
+
