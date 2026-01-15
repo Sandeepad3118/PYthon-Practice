@@ -6,7 +6,7 @@ print("It's really good")
 
 
 # Basic variable  - Integer, float, string, boolean
- 
+
 full_name= "Sandeep"
 age = 27
 bankBalance = 34.57
@@ -22,8 +22,6 @@ if mentally_stable:
 else:
     print("not suitable for the job")
 
-
-
 # Arithmatic operation: +, - , /{floor division}, *, //{integer division} % (no increment operator[++])
 
 friends = 5.0
@@ -33,6 +31,11 @@ print(friends)
 
 
 # Type casting - str() , int(), float(), bool()
+wont conver to char to int using typecasting - need to use ord() and chr()
+
+print(int("abc"))    # ❌ ValueError
+print(int("3.14"))   # ❌ ValueError (unless you use float() first)
+
 
 name = "Sandy"
 age = 27
@@ -58,7 +61,7 @@ gpa=bool(gpa)
 print(gpa)
 
 
-# User Imput
+# User Input
 
 name = input("enter the name: ")
 age = int(input("Enter your age: "))
@@ -66,7 +69,6 @@ print(f"You're {age} old")
 print(f"hello {name}")
 
 print(type(age))
-
 
 # if statements = execute only if its true, good for basic decision-making
 
@@ -101,7 +103,6 @@ if not is_raining:
 
 if not None:
     print("its True value")
-
 
 # While Loop = use to repeat code block until the condition is false
 
@@ -139,7 +140,7 @@ print("Happy New Year!!!")
 
 # List [] - mutable, most flexible
 # Tuple () - immutable, faster
-# Set {} - mutable (add/remove) , unordered(no index accessing), no duplicates, best for membership testing
+# Set {} - mutable (add/remove) , unordered(no index accessing), no duplicates,best for membership testing
 
 
 fruits = ["apple", "orange", "banana"]
@@ -184,3 +185,12 @@ else:
     print(f"{brand} was not found")
 
 """
+
+
+# numbers = {10, 20, 30, 40}
+
+# # Loop through elements
+# for num in numbers:
+#     print(num * 2)
+
+
